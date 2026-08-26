@@ -4,7 +4,7 @@ const DZP_API_URL = 'https://sufi.org.uk/live-dzp';
 const IDLE_IFRAME_URL = 'https://wali-app.co.uk/mosque/zjm';
 
 const KALIMAT_FOLDER = 'kalimat';
-const KALIMAT_EXTENSION = 'png';
+const KALIMAT_EXTENSION = 'jpg';
 
 const LIVE_CHECK_MS = 5000;
 const KALIMAT_POLL_MS = 1000;
